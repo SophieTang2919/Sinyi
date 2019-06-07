@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "Consolas, 'Microsoft JhengHei', monospace",
+    "appService.defaultWebAppToDeploy": "/subscriptions/8dfefdeb-4d9f-4dfd-921a-6188ed1b3ba3/resourceGroups/Sinyi-house/providers/Microsoft.Web/sites/Sinyi-house",
+    "appService.deploySubpath": ""
+}
